@@ -1,4 +1,4 @@
-- Faizzuddin Nazli [Kozmikku].
+- Faizzuddin Nazli.
 - Still many things to learn. Studying in the course Computer Science
 - VB || Python || C++ || C#
 <!---
